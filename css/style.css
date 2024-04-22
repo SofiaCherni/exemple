@@ -78,3 +78,6 @@ body {
     color: rgb(253, 186, 0);
 }
 
+.row {
+    padding: 30px 0;
+}
